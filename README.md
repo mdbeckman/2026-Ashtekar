@@ -1,5 +1,5 @@
-# JMM 2026
+# 2026 Ashtekar Frontiers of Science
 
-Materials presented during 2026 Joint Mathematics Meetings (Washington DC)
+Materials presented during public seminar as part of the 2026 Ashtekar Frontiers of Science lecture series.
 
-Here's a landing page for the talk and materials: <https://mdbeckman.github.io/JMM2026-WashingtonDC/>
+Here's a landing page for the talk and associated materials: <https://mdbeckman.github.io/2026-Ashtekar/>

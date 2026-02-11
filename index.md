@@ -13,21 +13,19 @@ output:
 
 ![](docs/qr-code-JMM.png){ width=20% }
 
-## Evaluating NLP tools designed to assist instructors with formative assessment for large-enrollment STEM classes
+## AI-support for teaching and learning at scale
 
-*Abstract.* This talk seeks to articulate the benefit of free-response tasks and timely formative assessment feedback, a roadmap for developing human-in-the-loop natural language processing (NLP) assisted feedback, and results from a pilot study establishing proof of principle. If we are to pursue Statistics and Data Science Education across disciplines, we will surely encounter both opportunity and necessity to develop scalable solutions for pedagogical best practices. Research suggests that “write-to-learn” tasks improve learning outcomes, yet constructed-response methods of formative assessment become unwieldy when class sizes grow large. Several short-answer tasks completed by post-secondary introductory statistics students; the responses were then evaluated by human raters and an NLP algorithm. After briefly describing the tasks, the student contexts, the algorithm and the raters, this talk discusses the results which indicate substantial inter-rater agreement and group consensus. The talk will conclude with recent developments, as well as implications for teaching and future research.
-
-
+*Abstract.* The proliferation of artificial intelligence (AI) tools and large language models (LLMs) has sparked dramatic changes to the landscape of post-secondary education resulting in new opportunities—and obligations—to re-evaluate norms for teaching and learning. This presentation includes a brief overview with perspective about rethinking assessment practices—i.e., how student learning is evaluated—during a period of such rapidly evolving technology. The session then transitions to sharing greater detail about ongoing research sponsored by the National Science Foundation, Penn State’s Center for Socially Responsible Artificial Intelligence, and a strategic partnership between Penn State and the University of Auckland in New Zealand, which seeks to develop LLM and AI-based tools intended to amplify instructor efforts to provide timely, personalized feedback to open-ended questions during class, especially for use in large classes (hundreds of students) at scales for which the logistics of doing so would be either untenable or impossible without a teacher-AI partnership. To this end, Beckman will also discuss how his team has approached evaluating performance of the tools they develop in order to build trust and confidence that they make a responsible contribution to the teaching team.
 
 
 ## Resources
 
-- [Slides (PDF)](docs/202601-scalable-formative-assessment.pdf)
+- [Slides (PDF)](docs/202602-AI-support-at-scale.pdf)
 - [ArXiv Preprint (link)](https://arxiv.org/abs/2410.18062): Beckman, Burke, Fiochetta, Fry, Lloyd, Patterson, Tang, (in review). Developing Consistency Among Undergraduate Graders Scoring Open-Ended Statistics Tasks. Preprint URL: https://arxiv.org/abs/2410.18062
 - [EMNLP Paper (PDF)](docs/EMNLP-Paper.pdf): Li, Z., Lloyd, S., Beckman, M. D., & Passonneau, R. J. (2023). Answer-state Recurrent Relational Network (AsRRN) for Constructed Response Assessment and Feedback Grouping.  *Findings of the Association for Computational Linguistics: EMNLP 2023*. https://doi.org/10.18653/v1/2023.findings-emnlp.254
 - [Pilot Study (PDF)](docs/ICOTS-Paper.pdf): Lloyd, S. E., Beckman, M., Pearl, D., Passonneau, R., Li, Z., & Wang, Z. (2022). Foundations for AI-Assisted Formative Assessment Feedback for Short-Answer Tasks in Large-Enrollment Classes. In *Proceedings of the eleventh international conference on teaching statistics*. Rosario, Argentina.
 - [ArXiv Preprint (link)](https://arxiv.org/pdf/2504.03877): Wei, Y., Pearl, D., Beckman, M., Passonneau, R. (2025). Concept-based Rubrics Improve LLM Formative Assessment and Data Synthesis. Preprint URL: <https://arxiv.org/pdf/2504.03877> 
-- [JMM Session Description (link)--NSF Special Session on Outcomes and Innovations from NSF Undergraduate Education Programs in the Mathematical Sciences](https://meetings.ams.org/math/jmm2026/meetingapp.cgi/Session/15213)
+- [2026 Ashtekar Frontiers of Science Lecture Series (link): https://science.psu.edu/frontiers](https://science.psu.edu/frontiers)
 
 ## Acknowledgments 
 
