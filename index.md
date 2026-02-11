@@ -1,17 +1,15 @@
 ---
-title: "Joint Mathematics Meetings"
-subtitle: "Washington DC"
+title: "Ashtekar Frontiers of Science"
+subtitle: "Unexpected Pairings Week 6: Education"
 author: |
   | Matthew Beckman
   | Penn State University
-date: January 6, 2026
+date: February 28, 2026
 output: 
   html_document: 
     css: stylesheet.css
 ---
 
-
-![](docs/qr-code-JMM.png){ width=20% }
 
 ## AI-support for teaching and learning at scale
 
