@@ -27,8 +27,8 @@ output:
 
 ## Acknowledgments 
 
-- US National Science Foundation (NSF DUE-2236150: Project CLASSIFIES)
-- Penn State Center for Socially Responsible Artificial Intelligence
+- US National Science Foundation (NSF DUE-2236150)
+- Penn State Center for Socially Responsible Artificial Intelligence (CSRAI Seed Grant #025243)
 - Strategic partnership between University of Auckland and Penn State University
 
 ## Contact
