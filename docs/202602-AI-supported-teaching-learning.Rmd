@@ -1,13 +1,13 @@
 ---
-title: "Evaluating NLP tools designed to assist instructors with formative assessment for large-enrollment STEM classes"
+title: "AI-support for teaching and learning at scale"
 author: |
   | Matthew Beckman
   | Penn State University
 date: | 
-  | January 6, 2026
+  | February 28, 2026
   | 
   | 
-  | Slides: mdbeckman.github.io/JMM2026-WashingtonDC/
+  | Slides: mdbeckman.github.io/2026-Ashtekar/
 
   
 output:
@@ -25,6 +25,19 @@ library(tidyverse)
 # library(kableExtra)
 
 ```
+
+
+# Notes: Intro
+# Notes: 
+
+
+
+
+
+
+
+
+
 
 
 # Two question pop quiz 
