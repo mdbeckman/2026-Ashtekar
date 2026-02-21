@@ -29,6 +29,7 @@ output:
 
 - US National Science Foundation (NSF DUE-2236150)
 - Penn State Center for Socially Responsible Artificial Intelligence (CSRAI Seed Grant #025243)
+- Penn State Social Science Research Institute AI Seed Grant
 - Strategic partnership between University of Auckland and Penn State University
 
 ## Contact
